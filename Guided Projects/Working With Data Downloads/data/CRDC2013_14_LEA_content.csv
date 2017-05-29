@@ -1,0 +1,80 @@
+NAME,VARNUM,TYPE,LABEL,LEA_PART,LEA_QUESTION
+LEA_STATE,1,Text,District State,,
+LEAID,2,Text,7 Digit LEAID District Identification Code,,
+LEA_NAME,3,Text,District Name,,
+LEA_ADDRESS,4,Text,District Address,,
+LEA_CITY,5,Text,District City,,
+LEA_ZIP,6,Text,District Zip code,,
+LEA_JJ_IND,7,Text,District Juvenile Justice Indicator,,
+LEA_ENR,8,Numeric,Count of Students,1,1
+LEA_SCHOOLS,9,Numeric,Count of Public Schools in the LEA,1,2
+LEA_CRCOORD_SEX_IND,10,Text,Civil Rights Coordinators Indicator: Sex (Title IX),1,3
+LEA_CRCOORD_RAC_IND,11,Text,"Civil Rights Coordinators Indicator: Race, color, or national origin (Title VI)",1,3
+LEA_CRCOORD_DIS_IND,12,Text,Civil Rights Coordinators Indicator: Disability (Section 504 and/or Title II),1,3
+LEA_DESEGPLAN,13,Text,Desegregation Order or Plan: Is the LEA covered by a desegregation order or plan?,1,5
+LEA_HBPOLICY_IND,14,Text,Harassment or Bullying Policy Indicator,1,6
+LEA_HBPOLICYURL_IND,15,Text,Harassment or Bullying Policy Web Link Indicator,1,7
+LEA_HBPOLICY_URL,16,Text,Harassment or Bullying Policy Web Link: Web Link,1,8
+LEA_ECE_IND,17,Text,Early Childhood Program Indicator: Does the LEA provide early childhood services to children birth through age 2?,1,10
+LEA_ECE_NONIDEA,18,Text,Non-IDEA Early Childhood Program Indicator,1,11
+LEA_PS_IND,19,Text,Preschool Program Provided by the LEA Indicator: Does the LEA provide preschool services or programs that serve children ages 3 through 5?,1,12
+LEA_PS_FULLDAYFREE,20,Text,Preschool Daily Length and Cost: Full-day preschool (free; no charge to parent(s)/guardian),1,13
+LEA_PS_FULLDAYCOST,21,Text,Preschool Daily Length and Cost: Full-day preschool (partial or full charge to parent(s)/guardian),1,13
+LEA_PS_PARTDAYFREE,22,Text,Preschool Daily Length and Cost: Part-day preschool (free; no charge to parent(s)/guardian),1,13
+LEA_PS_PARTDAYCOST,23,Text,Preschool Daily Length and Cost: Part-day preschool (partial or full charge to parent(s)/guardian),1,13
+LEA_PSENR_NONIDEA_A3,24,Text,Preschool Age for Non-IDEA Children: Children age 3 years,1,14
+LEA_PSENR_NONIDEA_A4,25,Text,Preschool Age for Non-IDEA Children: Children age 4 years,1,14
+LEA_PSENR_NONIDEA_A5,26,Text,Preschool Age for Non-IDEA Children: Children age 5 years,1,14
+LEA_PSELIG_ALL,27,Text,Preschool Eligibility - All Children: Does the LEA offer its preschool service(s) or program(s) to all children?,1,15
+LEA_PSELIG_IDEA,28,Text,Preschool Eligibility - Student Groups: Children with disabilities (IDEA),1,16
+LEA_PSELIG_TITLEI,29,Text,Preschool Eligibility - Student Groups: Children in Title I schools,1,16
+LEA_PSELIG_LOWINC,30,Text,Preschool Eligibility - Student Groups: Children from low income families,1,16
+LEA_KG_IND,31,Text,Kindergarten Program Indicator: Does the LEA provide one or more kindergarten programs that serve any students?,1,17
+LEA_KG_FULLDAYFREE,32,Text,Kindergarten Daily Length and Cost: Full-day kindergarten (free; no charge to parent(s)/guardian),1,18
+LEA_KG_FULLDAYCOST,33,Text,Kindergarten Daily Length and Cost: Full-day kindergarten (partial or full charge to parent(s)/guardian),1,18
+LEA_KG_PARTDAYFREE,34,Text,Kindergarten Daily Length and Cost: Part-day kindergarten (free; no charge to parent(s)/guardian),1,18
+LEA_KG_PARTDAYCOST,35,Text,Kindergarten Daily Length and Cost: Part-day kindergarten (partial or full charge to parent(s)/guardian),1,18
+DSO_LEA_DESEGPLAN,36,Numeric,Data System Overload Flag for LEA_DESEGPLAN (see User's Guide for a full description),1,5
+LEA_DISTED_IND,37,Text,Distance Education Enrollment Indicator: Does the LEA have any students enrolled in any distance educational courses?,2,20
+LEA_GED_IND,38,Text,GED Preparation Program Provided by the LEA Indicator: Does the LEA operate a GED preparation program for students ages 16-19?,2,22
+LEA_GEDPART_HI_M,39,Numeric,Student participants in GED preparation Program: Number of Hispanic Male Students,2,23
+LEA_GEDPART_HI_F,40,Numeric,Student participants in GED preparation Program: Number of Hispanic Female Students,2,23
+LEA_GEDPART_AM_M,41,Numeric,Student participants in GED preparation Program: Number of American Indian/Alaska Native Male Students,2,23
+LEA_GEDPART_AM_F,42,Numeric,Student participants in GED preparation Program: Number of American Indian/Alaska Native Female Students,2,23
+LEA_GEDPART_AS_M,43,Numeric,Student participants in GED preparation Program: Number of Asian Male Students,2,23
+LEA_GEDPART_AS_F,44,Numeric,Student participants in GED preparation Program: Number of Asian Female Students,2,23
+LEA_GEDPART_HP_M,45,Numeric,Student participants in GED preparation Program: Number of Native Hawaiian/Pacific Islander Male Students,2,23
+LEA_GEDPART_HP_F,46,Numeric,Student participants in GED preparation Program: Number of Native Hawaiian/Pacific Islander Female Students,2,23
+LEA_GEDPART_BL_M,47,Numeric,Student participants in GED preparation Program: Number of Black Male Students,2,23
+LEA_GEDPART_BL_F,48,Numeric,Student participants in GED preparation Program: Number of Black Female Students,2,23
+LEA_GEDPART_WH_M,49,Numeric,Student participants in GED preparation Program: Number of White Male Students,2,23
+LEA_GEDPART_WH_F,50,Numeric,Student participants in GED preparation Program: Number of White Female Students,2,23
+LEA_GEDPART_TR_M,51,Numeric,Student participants in GED preparation Program: Number of Two or More Races Male Students,2,23
+LEA_GEDPART_TR_F,52,Numeric,Student participants in GED preparation Program: Number of Two or More Races Female Students,2,23
+TOT_GEDPART_M,53,Numeric,Total Number Participating in GED - Male,2,23
+TOT_GEDPART_F,54,Numeric,Total Number Participating in GED - Female,2,23
+LEA_GEDPART_LEP_M,55,Numeric,Student participants in GED preparation Program: Number of LEP Male Students,2,23
+LEA_GEDPART_LEP_F,56,Numeric,Student participants in GED preparation Program: Number of LEP Female Students,2,23
+LEA_GEDPART_IDEA_M,57,Numeric,Student participants in GED preparation Program: Number of IDEA Male Students,2,23
+LEA_GEDPART_IDEA_F,58,Numeric,Student participants in GED preparation Program: Number of IDEA Female Students,2,23
+LEA_GEDCRED_HI_M,59,Numeric,Students receiving a high school equivalency credential: Number of Hispanic Male Students,2,24
+LEA_GEDCRED_HI_F,60,Numeric,Students receiving a high school equivalency credential: Number of Hispanic Female Students,2,24
+LEA_GEDCRED_AM_M,61,Numeric,Students receiving a high school equivalency credential: Number of American Indian/Alaska Native Male Students,2,24
+LEA_GEDCRED_AM_F,62,Numeric,Students receiving a high school equivalency credential: Number of American Indian/Alaska Native Female Students,2,24
+LEA_GEDCRED_AS_M,63,Numeric,Students receiving a high school equivalency credential: Number of Asian Male Students,2,24
+LEA_GEDCRED_AS_F,64,Numeric,Students receiving a high school equivalency credential: Number of Asian Female Students,2,24
+LEA_GEDCRED_HP_M,65,Numeric,Students receiving a high school equivalency credential: Number of Native Hawaiian/Pacific Islander Male Students,2,24
+LEA_GEDCRED_HP_F,66,Numeric,Students receiving a high school equivalency credential: Number of Native Hawaiian/Pacific Islander Female Students,2,24
+LEA_GEDCRED_BL_M,67,Numeric,Students receiving a high school equivalency credential: Number of Black Male Students,2,24
+LEA_GEDCRED_BL_F,68,Numeric,Students receiving a high school equivalency credential: Number of Black Female Students,2,24
+LEA_GEDCRED_WH_M,69,Numeric,Students receiving a high school equivalency credential: Number of White Male Students,2,24
+LEA_GEDCRED_WH_F,70,Numeric,Students receiving a high school equivalency credential: Number of White Female Students,2,24
+LEA_GEDCRED_TR_M,71,Numeric,Students receiving a high school equivalency credential: Number of Two or More Races Male Students,2,24
+LEA_GEDCRED_TR_F,72,Numeric,Students receiving a high school equivalency credential: Number of Two or More Races Female Students,2,24
+TOT_GEDCRED_M,73,Numeric,Total Number of GED Credentials Earned - Male,2,24
+TOT_GEDCRED_F,74,Numeric,Total Number of GED Credentials Earned - Female,2,24
+LEA_GEDCRED_LEP_M,75,Numeric,Students receiving a high school equivalency credential: Number of LEP Male Students,2,24
+LEA_GEDCRED_LEP_F,76,Numeric,Students receiving a high school equivalency credential: Number of LEP Female Students,2,24
+LEA_GEDCRED_IDEA_M,77,Numeric,Students receiving a high school equivalency credential: Number of IDEA Male Students,2,24
+LEA_GEDCRED_IDEA_F,78,Numeric,Students receiving a high school equivalency credential: Number of IDEA Female Students,2,24
+DSO_LEA_GED_IND,79,Numeric,Data System Overload Flag for LEA_GED_IND (see User's Guide for a full description),2,22

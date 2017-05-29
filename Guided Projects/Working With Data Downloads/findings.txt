@@ -1,0 +1,37 @@
+ENROLLMENT IN JUVI AND MAGNET
+
+There are 8 juvenile justice centers on the list and 52 magnet schools.
+FULL      633                                        3749
+
+Enrollment
+71/427 F/M in JJs  (.1663)
+FULL 5791/34890    (.1660)
+20499/21500 F/M in Magnet Schools
+1503234/1516973
+
+This means that there are over five times as many males in JJs than females but the number in Magnet schools is about equal
+
+
+ENROLLMENT BY RACE (Comparing to https://en.wikipedia.org/wiki/Demography_of_the_United_States#Race_and_ethnicity)
+
+About 50% of enrollment at these schools is white despite 64% of the population being white. Since people in schools are younger, this suggest the younger population is more diverse.
+
+Enrollment is 25% Hispanic while the population is only 16% Hispanic.
+
+Enrollment is 14% black while population is 12% black.
+
+The other main race demographics are similar.
+
+MAGNET SCHOOL RACIAL BREAKDOWN
+   (Magnet/ALL)
+Hispanic 16.5/12
+AM        .27/.55
+Asian       3/2.4
+HP        .16/.22
+Black      14/8
+White      14.5/25
+TR          14/15
+
+Blacks and Hispanics make up a higher percentage of Magnet school enrollment, with black enrollment at magnet schools being almost double enrollment at an average school.
+
+Whites only make up 14.5% of Magnet schools versus 25% of average schools.

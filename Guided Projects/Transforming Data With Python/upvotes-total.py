@@ -13,5 +13,5 @@ if __name__ == "__main__":
     data["date"] = data["submission_time"].apply(get_year_month)
     hours_upvotes = pd.pivot_table(data,"upvotes","date",aggfunc=sum)
     print(hours_upvotes)
-    plt.figure()
     hours_upvotes.plot()
+    plt.show()

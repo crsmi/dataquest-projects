@@ -1,0 +1,23 @@
+WHICH COUNTRIES WILL LOSE POPULATION OVER THE NEXT 35 YEARS?
+
+The population_growth field takes into account birth_rate, death_rate, and migration_rate, so we just need to look for negative population_growth.
+
+It seems from running loss.py that no countries have negative population_growth. So no country will have a projected 2050 population of less than the current population.
+
+Looking at change in population to 2050 in growth.py confirms this.
+
+
+WHICH COUNTRIES HAVE THE LOWEST AND HIGHEST POPULATION DENSITIES?
+
+Using density.py we see that Macau is the country with the highest population density of 21,169 people per square kilometer. Greenland is the lowest with 0.027 people per sq km.
+
+WHICH COUNTRIES RECEIVE THE MOST IMMIGRANTS? WHICH COUNTRIES LOSE THE MOST EMIGRANTS?
+
+As with our first question. We really can't answer this since migration_rates are all positive numbers with no other distinction between immigrants and emigrants. On the CIA page if you go to specific countries they show signs on the migration rates, but this data does not reflect that.
+
+ARE ANY AREAS OVER 50% WATER?
+
+Using the query in water.py we see that there are two areas that are over 50% water by area.
+
+British Indian Ocean Territory|54340|54400|99.8897058823529
+Virgin Islands|1564|1910|81.8848167539267

@@ -28,14 +28,14 @@ These are guided projects that I have worked on through the [DataQuest](http://w
 
  - [Investigating Fandango Movie Ratings](Guided%20Projects/Investigating%20Fandango%20Movie%20Ratings/Basics.ipynb)
 
-  Statistics Fundamentals project. Utilize the concepts of sampling, variables, scales of measurement, and frequency distributions to analyze movie ratings on the Fandango website.
+   Statistics Fundamentals project. Utilize the concepts of sampling, variables, scales of measurement, and frequency distributions to analyze movie ratings on the Fandango website.
 
  - [Finding the Best Markets to Advertise In](Guided%20Projects/Finding%the%20Best%20Markets%20to%20Advertise%20In/Basics.ipynb)
 
-  Statistics Intermediate project. Using summary statistics and outliers to explore a survey of new coders to identify markets for a fictitious coding education website to advertise in.
+   Statistics Intermediate project. Using summary statistics and outliers to explore a survey of new coders to identify markets for a fictitious coding education website to advertise in.
 
 #### Python
 
  - [Creating The SimpleFrame Class](Guided%20Projects/Creating%20The%20SimpleFrame%20Class/Basics.ipynb)
 
-  Intermediate python project. Utilize object-oriented programming in python to answer basic questions about the data set of songs streamed on Spotify in 2017.
+   Intermediate python project. Utilize object-oriented programming in python to answer basic questions about the data set of songs streamed on Spotify in 2017.

@@ -1,6 +1,6 @@
 # DataQuest Projects
 
-These are guided projects that I have worked on through the [DataQuest](http://www.dataquest.io) platform. I have earned a [Data Analyst Certificate](https://www.dataquest.io/view_cert/GZELEICN10D6CCSNON26/) through this platform and am working on the Data Science Certificate.
+These are guided projects that I have worked on through the [DataQuest](http://www.dataquest.io) platform. I have earned a [Data Analyst Certificate](https://www.dataquest.io/view_cert/GZELEICN10D6CCSNON26/) through this platform and am working on completing the Data Scientist Certificate.
 
 
 
@@ -34,8 +34,12 @@ These are guided projects that I have worked on through the [DataQuest](http://w
 
    Statistics Intermediate project. Using summary statistics and outliers to explore a survey of new coders to identify markets for a fictitious coding education website to advertise in.
 
-#### Python
+#### Python and Pandas
+
+ - [Exploring Ebay Car Sales Data](Guided%20Projects/Exploring%20Ebay%20Car%20Sales%20Data/Basics.ipynb)
+
+   Pandas and NumPy fundamentals project. Cleaning and doing basic analysis on data from the German eBay website.
 
  - [Creating The SimpleFrame Class](Guided%20Projects/Creating%20The%20SimpleFrame%20Class/Basics.ipynb)
 
-   Intermediate python project. Utilize object-oriented programming in python to answer basic questions about the data set of songs streamed on Spotify in 2017.
+   Intermediate Python project. Utilize object-oriented programming in python to answer basic questions about a data set of songs streamed on Spotify in 2017.

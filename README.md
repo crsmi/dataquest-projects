@@ -38,14 +38,15 @@ These are guided projects that I have worked on through the [DataQuest](http://w
 
 - ### Python
 
-  - [Using Jupyter Notebook]
+  - [Using Jupyter Notebook](Guided%20Projects/Using%20Jupyter%20Notebook/Basics.ipynb)
+
   - [Explore U.S. Births]
 
   - [Exploring Gun Deaths in the U.S.](Guided%20Projects/Exploring%20Gun%20Deaths%20in%20the%20US/Basics.ipynb)
 
   - [Creating the SimpleFrame Class](Guided%20Projects/Creating%20The%20SimpleFrame%20Class/Basics.ipynb): Utilize object-oriented programming in python to answer basic questions about a data set of songs streamed on Spotify in 2017.
 
-  
+
 
 - ### Data Analysis and Visualization
 
@@ -53,7 +54,7 @@ These are guided projects that I have worked on through the [DataQuest](http://w
 
   - [Visualizing Earnings Based on College Majors](Guided%20Projects/Visualizing%20Earnings%20Based%20On%20College%20Majors/Basics.ipynb)
 
-  - [Visualizing the Gender Gap in College Degrees](Guided%20Projects/Visualizing%20The%20Gender%20Gap In%20College%20Degrees)
+  - [Visualizing the Gender Gap in College Degrees](Guided%20Projects/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees)
 
   - [Analyzing NYC High School Data](Guided%20Projects/Analyzing%20NYC%20High%20School%20Data/Schools.ipynb)
 

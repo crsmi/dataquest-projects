@@ -1,0 +1,25 @@
+1. Introduction
+
+The approach of looping though each row and field takes O(m*n) time meaning it is inefficient and will not scale as data sets get larger.
+
+Instead we should employ an algorithm that does this search more efficiently.
+
+
+2. Linaer and Log Time Algorithms
+
+We can get O(n) by knowing that the string we are looking for will appear in a specific column dn just searching this column. We can further get to O(log(n)) doing this with a binary search algorithm.
+
+This is assuming the list is sorted by our desired column. In this case it is not so the complexity of the search algorithm will override.
+
+
+3. Hash Tables
+
+It was about the same amount of difficulty to search through a list of dictionaries as it was for a list of lists.
+
+6. Possible Next Steps
+
+Map out accidents using the basemap library for matplotlib.
+Count the number of accidents by air carrier.
+Count the number of accidents by airplane make and model.
+Figure out what percentage of accidents occur under adverse weather conditions.
+
